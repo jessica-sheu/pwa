@@ -1,2 +1,2 @@
-rm -Rf PWA
-g++ -g -O2 -I/usr/local/lib *.h *.cpp -o PWA
+rm -Rf pwa
+g++ -g -O2 -I/usr/local/lib *.h *.cpp -o pwa
