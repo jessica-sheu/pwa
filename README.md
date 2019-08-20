@@ -13,3 +13,4 @@ Protein alignment:
 - Gap extension: -2
 
 Future: Add more options for gap opening/extension and match/mismatch scores.
+Example input/output files can be provided upon request.
